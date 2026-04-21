@@ -2,20 +2,20 @@
 
 A fast and easy-to-use command-line YouTube video downloader built with Python and `yt-dlp`.
 
-> ⚠️ For educational use only.
+> For educational use only.
 
 ---
 
-## ✨ Features
+## Features
 
-- 🎞️ Download videos in the **best available quality**
-- 🎵 Convert to **MP3, MP4, or audio-only**
-- 📂 Choose your **download directory**
-- 📺 Supports **entire playlists**
+- Download videos in the **best available quality**
+- Convert to **MP3, MP4, or audio-only**
+- Choose your **download directory**
+- Supports **entire playlists**
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 git clone https://github.com/MC-Knight/kn_yt_downloader.git
@@ -29,7 +29,7 @@ pip install .
 kn-dl
 ```
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is intended **only for educational and personal use**.  
 Downloading videos or audio from YouTube may violate their [Terms of Service](https://www.youtube.com/t/terms).  
